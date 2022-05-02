@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pgeovany&show_icons=true&locale=en" alt="pgeovany" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgeovany&show_icons=true&locale=en&layout=compact" alt="pgeovany" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgeovany&show_icons=true&locale=en&layout=compact" alt="pgeovany" /></p>
