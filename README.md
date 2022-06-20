@@ -4,7 +4,7 @@
 <h3> Some info/facts about me:</h3>
 
 - I'm majoring in **CS** at **UFRJ**
-- I'm also studying web development
+- I'm also studying **web development**
 - I'm really into **music**, **cinema**, **technology**
 - I have a very cute cat
 - "Kooks" is my favourite David Bowie song
