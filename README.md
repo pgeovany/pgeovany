@@ -7,7 +7,6 @@
 - I'm also studying **web development**
 - I'm really into **music**, **cinema**, **technology**
 - I have a very cute cat
-- "Kooks" is my favourite David Bowie song
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
