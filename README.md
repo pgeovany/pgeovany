@@ -5,7 +5,7 @@
 
 - I'm majoring in **CS** at **UFRJ**
 - I'm also studying **web development** at **Driven Education**
-- I'm really into **music**, **cinema**, **technology**
+- I'm really into **music**, **cinema** and **technology**
 - I have a very cute cat
 #
 <h3 align="left">Connect with me:</h3>
@@ -40,8 +40,8 @@
 </p>
 
 #
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgeovany&show_icons=true&theme=algolia&locale=en&layout=compact" alt="pgeovany" /></p>
+<p align="left">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgeovany&show_icons=true&theme=algolia&locale=en&layout=compact" alt="pgeovany" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgeovany&show_icons=true&theme=algolia&locale=en" alt="pgeovany" /></p>
-<div/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=pgeovany&show_icons=true&theme=algolia&locale=en" alt="pgeovany" />
+<p/>
