@@ -1,10 +1,9 @@
-<h1 align="center">Hello there, I'm Pablo!</h1>
-<h3 align="center">A passionate CS student from Rio.</h3>
+<h1 align="center">Hello there, I'm Pablo! :wave:</h1>
+<h3 align="center">A passionate Software Engineer from Rio.</h3>
 
 <h3> Some info/facts about me:</h3>
 
-- I'm majoring in **CS** at **UFRJ**
-- I'm also studying **web development** at **Driven Education**
+- I'm majoring in **Computer Science** at **UFRJ**
 - I'm really into **music**, **cinema** and **technology**
 - I have a very cute cat
 #
