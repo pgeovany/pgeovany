@@ -54,7 +54,9 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30px"/>  
 </p>
+
 #
+
 <p align="left">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgeovany&show_icons=true&theme=algolia&locale=en&layout=compact" alt="pgeovany" />
 
