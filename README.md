@@ -3,7 +3,7 @@
 
 <h3> Some info/facts about me:</h3>
 
-- I'm majoring in **Computer Science** at **UFRJ**
+- I'm majoring in **Computer Science** at **UFRJ** (Federal University of Rio de Janeiro)
 - I'm really into **music**, **cinema** and **technology**
 - I have a very cute cat
 #
