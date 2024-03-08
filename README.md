@@ -4,7 +4,7 @@
 <h3> Some info/facts about me:</h3>
 
 - I'm majoring in **Computer Science** at **UFRJ** (Federal University of Rio de Janeiro)
-- I'm really into **music**, **cinema** and **technology**
+- I'm really into **music**, **cinema**, **literature** and **technology**
 - I have a very cute cat
 #
 <h3 align="left">Connect with me:</h3>
